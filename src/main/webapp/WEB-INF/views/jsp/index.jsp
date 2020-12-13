@@ -49,7 +49,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; KRISHNA</p>
+		<p>&copy; KRISHNA KRISHNA KRISHNA KRISHNA KRISHNA KRISHNA KRISHNA KRISHNA KRISHNA KRISHNA</p>
 	</footer>
 </div>
 
